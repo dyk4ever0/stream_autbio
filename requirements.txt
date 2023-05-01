@@ -1,4 +1,3 @@
 steamlit
 openai
 requests
-turtle
