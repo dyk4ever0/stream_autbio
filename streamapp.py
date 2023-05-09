@@ -11,7 +11,7 @@ translator = Translator()
 if "tags_list" not in st.session_state:
     st.session_state.tags_list = []
 
-openai.api_key = "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"
+openai.api_key = ""
 IMAGGA_API_KEY = "Basic YWNjXzBiMzgyNTRiNTk5YWI4NDo1OTZkNjdiZjcwYjE5ZmNkZjljMWMwYmJkMGRhZjA4Zg=="
 IMAGGA_API_URL = "https://api.imagga.com/v2/tags"
 
